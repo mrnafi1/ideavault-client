@@ -76,4 +76,6 @@ const JoinCommunity = () => {
   );
 };
 
+
+
 export default JoinCommunity;

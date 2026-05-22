@@ -9,6 +9,8 @@ const Home = () => {
     document.title = "IdeaVault – Share & Discover Startup Ideas";
   }, []);
 
+
+  
   return (
     <div>
       <Banner />
