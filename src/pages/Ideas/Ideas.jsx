@@ -194,7 +194,7 @@ const Ideas = () => {
           </div>
         )}
 
-        {/* Empty state */}
+        
         {!isLoading && ideas.length === 0 && (
           <div className="text-center py-20">
             <div className="text-6xl mb-4">🔍</div>
@@ -214,7 +214,7 @@ const Ideas = () => {
           </div>
         )}
 
-        {/* Ideas grid */}
+      
         {!isLoading && ideas.length > 0 && (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {ideas.map((idea) => (
