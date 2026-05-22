@@ -46,6 +46,7 @@ const socialLinks = [
   },
   {
     label: "GitHub",
+
     href: "https://github.com/mrnafi1",
     icon: (
       <svg viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4">
