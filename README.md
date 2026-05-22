@@ -1,6 +1,6 @@
 # IdeaVault 💡
 
-**Live Site:** [https://ideavault.vercel.app](https://ideavault.vercel.app)
+Live Site:https://ideavault-client-dusky.vercel.app
 
 A web platform where innovators share, discover, and validate startup ideas through community interaction.
 
