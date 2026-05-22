@@ -2,10 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @layer base {
-  * {
-    @apply border-border;
-  } */
+
 
   @layer base {
   * {
@@ -21,7 +18,7 @@
 }
 
 @layer components {
-  /* Cards */
+  
   .card {
     @apply bg-white dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-800 shadow-sm;
   }
