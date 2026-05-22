@@ -19,7 +19,8 @@ function App() {
       />
       <RouterProvider router={router} />
     </AuthProvider>
-  )
+ 
+)
 }
 
 export default App
